@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["Gregory Meyer <gregjm@umich.edu>"]
 
 [dependencies]
-llvm-sys = "60"
+# llvm-sys = "60"
+clap = "*"
